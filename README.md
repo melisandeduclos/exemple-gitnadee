@@ -1,4 +1,3 @@
 # Fichier README.md
 
-Il contient mon 2e essai de création d'un depot git.
-C'est réussi
+Intialisation d'un projet HTML/CSS avec l'installation de Bootstrap via yarn
